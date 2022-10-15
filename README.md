@@ -14,7 +14,7 @@
 
 MyNerve is a handwriting typeface designed to annotate and comment on documents with a fresh style. In addition, two sets of alternates allow variations when letters are repeated to emulate realistic script, together with some ligatures for frequent combinations. It can be used for informal texts, notes, or any project that would benefit from a casual script looking font. With a Latin Plus language coverage currently supports 219 Latin based languages.
 
-![Sample Image](documentation/image1.png)
+![Sample Image](documentation/MyNerve-main.png)
 ![Sample Image](documentation/MyNerve-all.png)
 
 ## About
