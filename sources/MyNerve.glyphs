@@ -16243,7 +16243,7 @@ unicode = 1EC5;
 },
 {
 glyphname = edieresis;
-lastChange = "2022-12-02 10:41:50 +0000";
+lastChange = "2022-12-02 11:28:53 +0000";
 layers = (
 {
 components = (
@@ -16252,7 +16252,7 @@ name = e.alt3;
 },
 {
 name = dieresiscomb;
-transform = "{1.1163, 0, 0, 1.1163, 230, -204}";
+transform = "{1.1163, 0, 0, 1.1163, 65, -204}";
 }
 );
 layerId = "D6A4831D-747C-4592-93C0-305F4CD57904";
@@ -23696,7 +23696,7 @@ unicode = 028A;
 },
 {
 glyphname = uring;
-lastChange = "2022-10-15 22:38:24 +0000";
+lastChange = "2022-12-02 11:29:23 +0000";
 layers = (
 {
 components = (
@@ -23705,7 +23705,7 @@ name = u;
 },
 {
 name = ringcomb;
-transform = "{1.1888, 0, 0, 1.1888, -149, -227}";
+transform = "{1.1888, 0, 0, 1.1888, -99, -227}";
 }
 );
 layerId = "D6A4831D-747C-4592-93C0-305F4CD57904";
