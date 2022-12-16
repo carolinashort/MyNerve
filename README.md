@@ -1,4 +1,4 @@
-# MyNerve
+# Mynerve
 
 [![][Fontbakery]](https://carolinashort.github.io/MyNerve/fontbakery/fontbakery-report.html)
 [![][Universal]](https://carolinashort.github.io/MyNerve/fontbakery/fontbakery-report.html)
@@ -12,7 +12,7 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcarolinashort%2FMyNerve%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcarolinashort%2FMyNerve%2Fgh-pages%2Fbadges%2FUniversal.json
 
-MyNerve is a handwriting typeface designed to annotate and comment on documents with a fresh style. In addition, two sets of alternates allow variations when letters are repeated to emulate realistic script, together with some ligatures for frequent combinations. It can be used for informal texts, notes, or any project that would benefit from a casual script looking font. With a Latin Plus language coverage currently supports 219 Latin based languages.
+Mynerve is a handwriting typeface designed to annotate and comment on documents with a fresh style. In addition, two sets of alternates allow variations when letters are repeated to emulate realistic script, together with some ligatures for frequent combinations. It can be used for informal texts, notes, or any project that would benefit from a casual script looking font. With a Latin Plus language coverage currently supports 219 Latin based languages.
 
 ![Sample Image](documentation/MyNerve-main.png)
 ![Sample Image](documentation/MyNerve-all.png)
